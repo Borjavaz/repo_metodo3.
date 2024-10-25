@@ -2,7 +2,6 @@
 
 ## Pasos
 
-
 1. **Encuentra el Repositorio que Deseas Forkear**
  
 2. **Haz Clic en el Botón de Fork**
